@@ -1,0 +1,13 @@
+.app {
+  width: 69%;
+  margin: auto;
+  text-align: center;
+}
+
+.app a, .app a:visited {
+  text-decoration: none;
+}
+
+.app a:hover {
+  text-decoration: underline;
+}
